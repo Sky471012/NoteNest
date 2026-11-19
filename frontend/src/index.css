@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fc;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.auth-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.auth-card {
+    width: 100%;
+    max-width: 420px;
+    border-radius: 12px;
+}
+
+.form-control {
+    padding: 11px;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.btn {
+    border-radius: 6px;
+}
